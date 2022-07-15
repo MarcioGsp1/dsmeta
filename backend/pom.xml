@@ -12,8 +12,8 @@
 	<groupId>com.devsuperior</groupId>
 	<artifactId>dsmeta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Projeto da semana Spring React</name>
-	<description>Demo project for Spring Boot</description>
+	<name>dsmeta</name>
+	<description>Projeto da semana Spring React</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -50,7 +50,6 @@
 
 	<build>
 		<plugins>
-
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-resources-plugin</artifactId>
